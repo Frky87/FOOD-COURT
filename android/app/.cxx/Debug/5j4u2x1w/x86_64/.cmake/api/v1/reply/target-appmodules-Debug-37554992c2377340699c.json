@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "C:/FoodCourt-React/android/app/build/intermediates/cxx/Debug/5j4u2x1w/obj/armeabi-v7a/libappmodules.so"
+			"path" : "C:/FoodCourt-React/android/app/build/intermediates/cxx/Debug/5j4u2x1w/obj/x86_64/libappmodules.so"
 		}
 	],
 	"backtrace" : 3,
@@ -114,7 +114,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D__BIONIC_NO_PAGE_SIZE_MACRO -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC"
+					"fragment" : "-g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D__BIONIC_NO_PAGE_SIZE_MACRO -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -fno-limit-debug-info  -fPIC"
 				},
 				{
 					"backtrace" : 6,
@@ -341,7 +341,7 @@
 		},
 		{
 			"backtrace" : 4,
-			"id" : "react_codegen_RNVectorIconsSpec::@479809fae146501fd34d"
+			"id" : "react_codegen_rnscreens::@25bcbd507e98d3a854ad"
 		},
 		{
 			"backtrace" : 4,
@@ -349,7 +349,7 @@
 		},
 		{
 			"backtrace" : 4,
-			"id" : "react_codegen_rnscreens::@25bcbd507e98d3a854ad"
+			"id" : "react_codegen_RNVectorIconsSpec::@479809fae146501fd34d"
 		}
 	],
 	"id" : "appmodules::@6890427a1f51a3e7e1df",
@@ -358,42 +358,42 @@
 		"commandFragments" : 
 		[
 			{
-				"fragment" : "-Wl,--build-id=sha1 -Wl,--no-rosegment -Wl,--no-undefined-version -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments",
+				"fragment" : "-Wl,-z,max-page-size=16384 -Wl,--build-id=sha1 -Wl,--no-rosegment -Wl,--no-undefined-version -Wl,--fatal-warnings -Wl,--no-undefined -Qunused-arguments",
 				"role" : "flags"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "C:\\FoodCourt-React\\android\\app\\build\\intermediates\\cxx\\Debug\\5j4u2x1w\\obj\\armeabi-v7a\\libreact_codegen_rnpicker.so",
+				"fragment" : "C:\\FoodCourt-React\\android\\app\\build\\intermediates\\cxx\\Debug\\5j4u2x1w\\obj\\x86_64\\libreact_codegen_rnpicker.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "C:\\FoodCourt-React\\android\\app\\build\\intermediates\\cxx\\Debug\\5j4u2x1w\\obj\\armeabi-v7a\\libreact_codegen_safeareacontext.so",
+				"fragment" : "C:\\FoodCourt-React\\android\\app\\build\\intermediates\\cxx\\Debug\\5j4u2x1w\\obj\\x86_64\\libreact_codegen_safeareacontext.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "C:\\FoodCourt-React\\android\\app\\build\\intermediates\\cxx\\Debug\\5j4u2x1w\\obj\\armeabi-v7a\\libreact_codegen_rnscreens.so",
+				"fragment" : "C:\\FoodCourt-React\\android\\app\\build\\intermediates\\cxx\\Debug\\5j4u2x1w\\obj\\x86_64\\libreact_codegen_rnscreens.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 4,
-				"fragment" : "C:\\FoodCourt-React\\android\\app\\build\\intermediates\\cxx\\Debug\\5j4u2x1w\\obj\\armeabi-v7a\\libreact_codegen_rnsvg.so",
+				"fragment" : "C:\\FoodCourt-React\\android\\app\\build\\intermediates\\cxx\\Debug\\5j4u2x1w\\obj\\x86_64\\libreact_codegen_rnsvg.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Users\\sagir\\.gradle\\caches\\8.13\\transforms\\94b1cc03364ae8f1db27fa7fea536b5b\\transformed\\fbjni-0.7.0\\prefab\\modules\\fbjni\\libs\\android.armeabi-v7a\\libfbjni.so",
+				"fragment" : "C:\\Users\\sagir\\.gradle\\caches\\8.13\\transforms\\94b1cc03364ae8f1db27fa7fea536b5b\\transformed\\fbjni-0.7.0\\prefab\\modules\\fbjni\\libs\\android.x86_64\\libfbjni.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Users\\sagir\\.gradle\\caches\\8.13\\transforms\\13370717fd5752dd2c6147cd3a94163a\\transformed\\react-android-0.79.2-debug\\prefab\\modules\\jsi\\libs\\android.armeabi-v7a\\libjsi.so",
+				"fragment" : "C:\\Users\\sagir\\.gradle\\caches\\8.13\\transforms\\13370717fd5752dd2c6147cd3a94163a\\transformed\\react-android-0.79.2-debug\\prefab\\modules\\jsi\\libs\\android.x86_64\\libjsi.so",
 				"role" : "libraries"
 			},
 			{
 				"backtrace" : 5,
-				"fragment" : "C:\\Users\\sagir\\.gradle\\caches\\8.13\\transforms\\13370717fd5752dd2c6147cd3a94163a\\transformed\\react-android-0.79.2-debug\\prefab\\modules\\reactnative\\libs\\android.armeabi-v7a\\libreactnative.so",
+				"fragment" : "C:\\Users\\sagir\\.gradle\\caches\\8.13\\transforms\\13370717fd5752dd2c6147cd3a94163a\\transformed\\react-android-0.79.2-debug\\prefab\\modules\\reactnative\\libs\\android.x86_64\\libreactnative.so",
 				"role" : "libraries"
 			},
 			{
@@ -469,127 +469,127 @@
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/armeabi-v7a/rnflashlist_autolinked_build/CMakeFiles/react_codegen_rnflashlist.dir/react/renderer/components/rnflashlist/ComponentDescriptors.cpp.o",
+			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/x86_64/rnflashlist_autolinked_build/CMakeFiles/react_codegen_rnflashlist.dir/react/renderer/components/rnflashlist/ComponentDescriptors.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/armeabi-v7a/rnflashlist_autolinked_build/CMakeFiles/react_codegen_rnflashlist.dir/react/renderer/components/rnflashlist/EventEmitters.cpp.o",
+			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/x86_64/rnflashlist_autolinked_build/CMakeFiles/react_codegen_rnflashlist.dir/react/renderer/components/rnflashlist/EventEmitters.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/armeabi-v7a/rnflashlist_autolinked_build/CMakeFiles/react_codegen_rnflashlist.dir/react/renderer/components/rnflashlist/Props.cpp.o",
+			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/x86_64/rnflashlist_autolinked_build/CMakeFiles/react_codegen_rnflashlist.dir/react/renderer/components/rnflashlist/Props.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/armeabi-v7a/rnflashlist_autolinked_build/CMakeFiles/react_codegen_rnflashlist.dir/react/renderer/components/rnflashlist/ShadowNodes.cpp.o",
+			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/x86_64/rnflashlist_autolinked_build/CMakeFiles/react_codegen_rnflashlist.dir/react/renderer/components/rnflashlist/ShadowNodes.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/armeabi-v7a/rnflashlist_autolinked_build/CMakeFiles/react_codegen_rnflashlist.dir/react/renderer/components/rnflashlist/States.cpp.o",
+			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/x86_64/rnflashlist_autolinked_build/CMakeFiles/react_codegen_rnflashlist.dir/react/renderer/components/rnflashlist/States.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/armeabi-v7a/rnflashlist_autolinked_build/CMakeFiles/react_codegen_rnflashlist.dir/react/renderer/components/rnflashlist/rnflashlistJSI-generated.cpp.o",
+			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/x86_64/rnflashlist_autolinked_build/CMakeFiles/react_codegen_rnflashlist.dir/react/renderer/components/rnflashlist/rnflashlistJSI-generated.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/armeabi-v7a/rnflashlist_autolinked_build/CMakeFiles/react_codegen_rnflashlist.dir/rnflashlist-generated.cpp.o",
+			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/x86_64/rnflashlist_autolinked_build/CMakeFiles/react_codegen_rnflashlist.dir/rnflashlist-generated.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/armeabi-v7a/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/ComponentDescriptors.cpp.o",
+			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/x86_64/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/ComponentDescriptors.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/armeabi-v7a/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/EventEmitters.cpp.o",
+			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/x86_64/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/EventEmitters.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/armeabi-v7a/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/Props.cpp.o",
+			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/x86_64/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/Props.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/armeabi-v7a/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/ShadowNodes.cpp.o",
+			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/x86_64/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/ShadowNodes.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/armeabi-v7a/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/States.cpp.o",
+			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/x86_64/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/States.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/armeabi-v7a/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/bac033cd950586cef66695376748dd33/rngesturehandler_codegenJSI-generated.cpp.o",
+			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/x86_64/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/react/renderer/components/rngesturehandler_codegen/rngesturehandler_codegenJSI-generated.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/armeabi-v7a/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/rngesturehandler_codegen-generated.cpp.o",
+			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/x86_64/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir/rngesturehandler_codegen-generated.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/armeabi-v7a/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/RNVectorIconsSpec-generated.cpp.o",
+			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/x86_64/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/RNVectorIconsSpec-generated.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/armeabi-v7a/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/ComponentDescriptors.cpp.o",
+			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/x86_64/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/ComponentDescriptors.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/armeabi-v7a/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/EventEmitters.cpp.o",
+			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/x86_64/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/EventEmitters.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/armeabi-v7a/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/Props.cpp.o",
+			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/x86_64/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/Props.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/armeabi-v7a/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/RNVectorIconsSpecJSI-generated.cpp.o",
+			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/x86_64/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/RNVectorIconsSpecJSI-generated.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/armeabi-v7a/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/ShadowNodes.cpp.o",
+			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/x86_64/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/ShadowNodes.cpp.o",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/armeabi-v7a/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/States.cpp.o",
+			"path" : "C:/FoodCourt-React/android/app/.cxx/Debug/5j4u2x1w/x86_64/RNVectorIconsSpec_autolinked_build/CMakeFiles/react_codegen_RNVectorIconsSpec.dir/react/renderer/components/RNVectorIconsSpec/States.cpp.o",
 			"sourceGroupIndex" : 1
 		}
 	],
