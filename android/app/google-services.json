@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "829299000564",
+    "project_id": "foodcourt-app-75ee5",
+    "storage_bucket": "foodcourt-app-75ee5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829299000564:android:668b56b3d5a5da60028aa1",
+        "android_client_info": {
+          "package_name": "com.foodcourt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMhBHU0bqAB526Jtc3zHUNuX5J4nvoD3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
